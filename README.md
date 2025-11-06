@@ -8,7 +8,7 @@
 
 - ⚡ I recently built a sudoku game to start out my programming journey, check it out [here](link)!
 
-- 📫 How to reach me **maclean.lama@gmail.com**
+- 📫 Questions? Email me at **maclean.lama@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
