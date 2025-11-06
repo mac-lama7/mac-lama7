@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mac Lama</h1>
 <h3 align="center">A passionate ITS student from at Marist University</h3>
+<br>
 
 - 🔭 I’m currently working on **Building a quizzing website**
 
 - 🌱 I’m currently learning about **html, javascript, node.js, and json files.**
+
+- ⚡ I recently built a sudoku game to start out my programming journey, check it out [here](link)!
 
 - 📫 How to reach me **maclean.lama@gmail.com**
 
