@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there 👋
+
+My name is Mac, and I am currently studying ITS at Marist University!
+
+- 🔭 I’m currently working on practicing and evolving my programming skills.
+- 🌱 I’m currently learning web design using javascript, html, and json files.
+- ⚡ I recently built a sudoku game to start out my programming journey, check it out [here](link)!
 
 <!--
 **mac-lama7/mac-lama7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
