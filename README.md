@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mac Lama</h1>
-<h3 align="center">A passionate ITS student from at Marist University</h3>
+<h3 align="center">A passionate ITS student at Marist University</h3>
 <br>
 
 - 🔭 I’m currently working on **Building a quizzing website**
